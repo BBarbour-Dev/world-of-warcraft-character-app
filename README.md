@@ -1,8 +1,8 @@
-#Overview
+# Overview
 You will be showing us how you deal with completing a project to design specifications in a short amount of time. This is as much about showing us how well you can learn as it is getting the correct output, so even if things aren’t perfect at the end of your time, we still want to see where you got to.
 The design specs (in photoshop and jpeg format) are **found in this same folder. Please try to make this look as much like the design as you possibly can.**
 
-#Blizzard API Take-Home Test
+# Blizzard API Take-Home Test
 You will be building a small web application that allows users to search for their World of Warcraft character, have that information be retrieved, and display it on the screen. 
 Blizzard has an API for a lot of their games which allows devs to grab certain information about their online games like **World Of Warcraft**: https://dev.battle.net/ 
 You need to register in order to get an API key, but it only takes like 5 minutes and it’s completely free.  
