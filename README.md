@@ -22,13 +22,15 @@ Use the Blizzard API to allow a user to search for characters by **character nam
 			o	Stamina 
 			o	Haste
 
-	●	Items: All equipped items (everything in the Items API call). **Bonus** if you also get information about the **buy price, sell price, and/or required level** of the items equipped.
+	●	Items: All equipped items (everything in the Items API call). **Bonus** if you also get information about the 
+	**buy price, sell price, and/or required level** of the items equipped.
 
 Requirements: 
 
 	●	Turn in a web site that someone can look at and use - either just the files, or a link to the hosted project.
 
-	●	Make it look as close as possible to the attached design. Note: Not everything in the assignment is in the design. Use your best judgement on how to build out the items section and build it as close to the design as possible.
+	●	Make it look as close as possible to the attached design. Note: Not everything in the assignment is in the design. 
+	Use your best judgement on how to build out the items section and build it as close to the design as possible.
 
 	●	Make sure to handle any possible errors that could occur as a result of using the webpage. 
 
