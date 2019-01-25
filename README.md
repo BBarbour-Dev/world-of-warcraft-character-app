@@ -4,9 +4,9 @@ The design specs (in photoshop and jpeg format) are **found in this same folder.
 
 # Blizzard API Take-Home Test
 You will be building a small web application that allows users to search for their World of Warcraft character, have that information be retrieved, and display it on the screen. 
-Blizzard has an API for a lot of their games which allows devs to grab certain information about their online games like **World Of Warcraft**: https://dev.battle.net/ 
+Blizzard has an API for a lot of their games which allows devs to grab certain information about their online games like **World Of Warcraft**: https://develop.battle.net/ 
 You need to register in order to get an API key, but it only takes like 5 minutes and it’s completely free.  
-There is a lot of documentation on how to use it: https://dev.battle.net/io-docs
+There is a lot of documentation on how to use it: https://develop.battle.net/documentation/guides/getting-started
 
 **Here is your assignment**:
 
