@@ -47,3 +47,15 @@ export const raceId = {
 }
 
 export const factionId = ['alliance', 'horde']
+
+export const itemQuality = [
+  '#9d9d9d',
+  '#ffffff',
+  '#1eff00',
+  '#0070dd',
+  '#a335ee',
+  '#ff8000',
+  '#e6cc80',
+  '#e6cc80',
+  '#00ccff'
+]

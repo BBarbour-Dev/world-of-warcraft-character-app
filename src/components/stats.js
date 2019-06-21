@@ -7,6 +7,7 @@ import {
   capitalizeFirstLetter,
   factionId
 } from '../helpers'
+
 import alliance from '../assets/alliance.png'
 import horde from '../assets/horde.png'
 
@@ -145,7 +146,7 @@ const StatsStyle = styled.div`
 
   h2 {
     text-align: center;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
   }
 
   h3 {
@@ -153,13 +154,10 @@ const StatsStyle = styled.div`
   }
 
   .row {
-    display: flex;
+    display: grid;
+    grid-template-columns: 47% 47%;
+    grid-gap: 5%;
     margin-bottom: 1rem;
-  }
-
-  .column {
-    flex: 50%;
-    margin-left: 2rem;
   }
 
   .stat {
