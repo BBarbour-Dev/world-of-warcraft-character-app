@@ -21,7 +21,8 @@ const CharacterStyle = styled.section`
   background-color: rgba(14, 22, 48, 0.65);
   color: #fafafa;
   padding: 5rem;
-  margin: 8rem 0;
+  margin-top: 2rem;
+  margin-bottom: 6rem;
 
   h2 {
     text-align: center;
