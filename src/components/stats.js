@@ -123,6 +123,11 @@ const StatsStyle = styled.div`
   background-color: rgba(14, 22, 48, 0.9);
   padding: 2.5rem;
 
+  @media (min-width: 700px) {
+    width: 50%;
+    margin-left: 5rem;
+  }
+
   figure {
     width: 10rem;
     margin: 0 auto;

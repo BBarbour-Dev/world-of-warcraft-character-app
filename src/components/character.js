@@ -26,6 +26,12 @@ const CharacterStyle = styled.section`
   h2 {
     text-align: center;
   }
+
+  @media (min-width: 700px) {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
 `
 
 export default Character
